@@ -1,0 +1,22 @@
+
+
+# --------------
+# Please enter the commit message for your changes. Everything below
+# this paragraph is ignored, and an empty message aborts the commit.
+# Just close the window to accept your message.
+diff --git a/index.html b/index.html
+index 0e1da60..aa5e5ea 100644
+--- a/index.html
++++ b/index.html
+@@ -48,9 +48,11 @@
+       <header class="masthead mb-auto">
+         <div class="inner" bis_skin_checked="1">
+           <h3 class="masthead-brand">Что угодно</h3>
++           <h3 class="masthead-brand">Что угодно</h3>
+           <nav class="nav nav-masthead justify-content-center">
+             <a class="nav-link active" href="#">Домой</a>
+             <a class="nav-link" href="#">Что нибудь</a>
++            <a class="nav-link" href="#">Что нибудь</a>
+             <a class="nav-link" href="#">Контакты</a>
+           </nav>
+         </div>
